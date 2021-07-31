@@ -1,6 +1,7 @@
 # Generating and Validating a Metric for Food Insecurity across New Jersey using Regression Based Machine Learning
 ## 2021 Governor's School of Engineering and Technology (GSET)
-#### Scholars: Matthew Balestier, Myra Cui, Riya Nandakumar, Anaika Tyagi, Cristian Vintimilla
+### Scholars: Matthew Balestier, Myra Cui, Riya Nandakumar, Anaika Tyagi, Cristian Vintimilla
+
 [![MIT License][license-shield]][license-url]
 
 <!-- TABLE OF CONTENTS -->
