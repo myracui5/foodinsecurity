@@ -1,5 +1,7 @@
 # Generating and Validating a Metric for Food Insecurity across New Jersey using Regression Based Machine Learning
 ## 2021 Governor's School of Engineering and Technology (GSET)
+[![MIT License][license-shield]][license-url]
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -12,6 +14,14 @@
         <li><a href="#GSET-program">GSET Program</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -38,12 +48,48 @@ Python libraries and packages:
 * [Seaborn](https://seaborn.pydata.org/)
 * [Geopandas](https://geopandas.org/)
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```JS
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+
 <!-- GSET Program -->
 ### GSET Program
 The New Jersey Governor's School of Engineering & Technology at Rutgers University is an intensive residential summer program that brings together some of New Jersey's most talented and motivated high school students. Free of grades and official credit, students spend part of the summer following their junior year studying on the campus of the Rutgers University School of Engineering at no cost to their families. During the program, students will have the opportunity to collaborate with other students on a novel research project which will be showcased in a conference-style final paper and presentation in front of hundreds of invited guests at our research symposium.  Additionally, students will be able to participate in a variety of life-skills workshops, attend site visits to local corporations, and engage in activities that will help them connect with professors, professionals, and peers from throughout the state.
 <br>
 <br>
 All applicants must be nominated by their high schools. (High schools can nominate one applicant for every 325 members of their junior class. i.e. a school with 100 juniors may nominate 1 student; a school with 400 juniors may nominate 2 students; a school with 645 juniors may also nominate only 2 students). Admission to the program is very competitive. Following a competitive process at each high school in which dozens of students may express interest in attending the program, we generally receive between 300 and 400 applications from these nominees. Of the nominees, who are the best and brightest students at their respective schools, fewer than 25% generally receive offers of admission.
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
@@ -60,6 +106,8 @@ Project Link: [https://github.com/myracui5/foodinsecurity](https://github.com/my
 The authors of this paper would like to gratefully thank the following: Mentor Sachin Mathew for their vast knowledge of data analysis and invaluable guidance; Residential Teaching Assistants Jasmine Khaled and Genevieve Ehasz for their constant supervision throughout the research process; Dean Jean Patrick Antoine for his enthusiastic support and insight; the Governor’s School of Engineering and Technology (GSET) and Rutgers University for the chance to increase our knowl- edge, explore engineering, and pursue new opportunities; the state of New Jersey, alumni, and sponsors for making this program possible; and lastly, NJ GSET Alumni for their continued participation and support.
 
 
-
+<!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/myracui/
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
