@@ -36,9 +36,8 @@
 
 
 
-[![full research paper][researchfull-sheild]][researchfull-url]
-[![5 pg research paper][research5-sheild]][research5-url]
-
+[![full research paper][researchfull-shield]][researchfull-url]
+[![5 pg research paper][research5-shield]][research5-url]
 
 
 [full research paper](https://soe.rutgers.edu/governors-school-engineering-technology-research-journals) <br>
