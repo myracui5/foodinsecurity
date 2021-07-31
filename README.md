@@ -70,8 +70,8 @@ This project was created on Jupyter Notebook, an open-source and browser-based a
    jupyter notebook
    ```
 
-<!-- GSET Program -->
-### GSET Program
+<!-- About GSET -->
+### About GSET
 The New Jersey Governor's School of Engineering & Technology at Rutgers University is an intensive residential summer program that brings together some of New Jersey's most talented and motivated high school students. Free of grades and official credit, students spend part of the summer following their junior year studying on the campus of the Rutgers University School of Engineering at no cost to their families. During the program, students will have the opportunity to collaborate with other students on a novel research project which will be showcased in a conference-style final paper and presentation in front of hundreds of invited guests at our research symposium.  Additionally, students will be able to participate in a variety of life-skills workshops, attend site visits to local corporations, and engage in activities that will help them connect with professors, professionals, and peers from throughout the state.
 <br>
 <br>
