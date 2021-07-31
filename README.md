@@ -2,6 +2,7 @@
 ## 2021 Governor's School of Engineering and Technology (GSET)
 [![MIT License][license-shield]][license-url]
 
+#### Scholars: Matthew Balestier, Myra Cui, Riya Nandakumar, Anaika Tyagi, Cristian Vintimilla
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -31,10 +32,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-#### Scholars: Matthew Balestier, Myra Cui, Riya Nandakumar, Anaika Tyagi, Cristian Vintimilla
-
-
-
 
 [![full research paper][researchfull-shield]][researchfull-url]
 [![5 pg research paper][research5-shield]][research5-url]
