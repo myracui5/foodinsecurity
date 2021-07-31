@@ -51,7 +51,7 @@ Python libraries and packages:
 ## Getting Started
 
 This project was created on Jupyter Notebook, an open-source and browser-based application for collaborative documents, data manipulation, statistical analysis, and more.
-* [Jupyter Notebook] (https://jupyter.org/)
+* [Jupyter Notebook](https://jupyter.org/)
 
 ### Installation
 
