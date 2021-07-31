@@ -33,6 +33,14 @@
 ## About The Project
 #### Scholars: Matthew Balestier, Myra Cui, Riya Nandakumar, Anaika Tyagi, Cristian Vintimilla
 
+
+
+
+[![full research paper][researchfull-sheild]][researchfull-url]
+[![5 pg research paper][research5-sheild]][research5-url]
+
+
+
 [full research paper](https://soe.rutgers.edu/governors-school-engineering-technology-research-journals) <br>
 [IEEE 5 page paper](https://drive.google.com/file/d/1_xD0wUTBtjxomaljPMzFUl4MwFEgipZP/view?usp=sharing)
 
@@ -98,6 +106,10 @@ The authors of this paper would like to gratefully thank the following: Mentor S
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[researchfull-shield]: https://img.shields.io/badge/-FULL%20RESEARCH%20PAPER-9cf?style=for-the-badge
+[researchfull-url]: https://soe.rutgers.edu/governors-school-engineering-technology-research-journals
+[research5-shield]: https://img.shields.io/badge/-IEEE%205%20PAGE%20PAPER-9cf
+[research5-url]: https://drive.google.com/file/d/1_xD0wUTBtjxomaljPMzFUl4MwFEgipZP/view?usp=sharing
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/myracui/
 [license-shield]: https://img.shields.io/badge/LICENSE-MIT-9cf?style=for-the-badge
