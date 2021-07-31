@@ -100,5 +100,5 @@ The authors of this paper would like to gratefully thank the following: Mentor S
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/myracui/
-[license-shield]: https://img.shields.io/badge/LICENSE-MIT-#B08CFF?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/LICENSE-MIT-9cf?style=for-the-badge
 [license-url]: https://github.com/myracui5/foodinsecurity/blob/main/LICENSE.txt
