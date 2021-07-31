@@ -38,10 +38,12 @@
 
 [![full research paper][researchfull-shield]][researchfull-url]
 [![5 pg research paper][research5-shield]][research5-url]
-
+<!-- 
 
 [full research paper](https://soe.rutgers.edu/governors-school-engineering-technology-research-journals) <br>
 [IEEE 5 page paper](https://drive.google.com/file/d/1_xD0wUTBtjxomaljPMzFUl4MwFEgipZP/view?usp=sharing)
+
+-->
 
 ### Abstract
 As the cost of living has continued to increase in New Jersey, many are struggling to meet their basic needs. Food insecurity has progressively become a widespread issue, impacting the lives of thousands within the state. Heightened by the consequences of COVID-19, more New Jersey residents than ever have found themselves lacking secure access to nutritious food. Given the importance of this issue, this research aims to produce an accurate metric using accessible data to quantify food insecurity. To accomplish this, a literature review was conducted in order to gather relevant data sets sorted by year, county, and hypothesized variables indicative of food insecurity. 16 final variables, such as median household income and homeless pop- ulation, were chosen based on if their values were defined across 2015 to 2019. Using multiple linear regression, 14 unique metrics with variables determined by four different variable pruning methods were created. The leading metric, with an R2 value of 0.935, demonstrates the correlation between food insecurity, population, median household income, total population with health insurance, and population with private health insurance. The implementation of this metric could serve as a strong tool in predicting areas of great food insecurity, highlighting affiliated factors, and revealing connections between racial populations.
@@ -107,7 +109,7 @@ The authors of this paper would like to gratefully thank the following: Mentor S
 <!-- MARKDOWN LINKS & IMAGES -->
 [researchfull-shield]: https://img.shields.io/badge/-FULL%20RESEARCH%20PAPER-9cf?style=for-the-badge
 [researchfull-url]: https://soe.rutgers.edu/governors-school-engineering-technology-research-journals
-[research5-shield]: https://img.shields.io/badge/-IEEE%205%20PAGE%20PAPER-9cf?style=flat-square
+[research5-shield]: https://img.shields.io/badge/-IEEE%205%20PAGE%20PAPER-9cf?style=for-the-badge
 [research5-url]: https://drive.google.com/file/d/1_xD0wUTBtjxomaljPMzFUl4MwFEgipZP/view?usp=sharing
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/myracui/
