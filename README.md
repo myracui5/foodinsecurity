@@ -99,14 +99,14 @@ Project Link: [https://github.com/myracui5/foodinsecurity](https://github.com/my
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-<br>
 The authors of this paper would like to gratefully thank the following: <br>
-* Mentor Sachin Mathew for their vast knowledge of data analysis and invaluable guidance <br>
-* Residential Teaching Assistants Jasmine Khaled and Genevieve Ehasz for their constant supervision throughout the research process <br>
-* Dean Jean Patrick Antoine for his enthusiastic support and insight; the Governor’s School of Engineering and Technology (GSET) and Rutgers University for the chance to increase our knowledge, explore engineering, and pursue new opportunities <br>
-* The state of New Jersey, alumni, and sponsors for making this program possible <br>
-* NJ GSET Alumni for their continued participation and support <br>
-<br>
+<ul>
+  <li> Mentor <strong> Sachin Mathew </strong> for their vast knowledge of data analysis and invaluable guidance </li>
+  <li> Residential Teaching Assistants <strong>Jasmine Khaled </strong> and <strong>Genevieve Ehasz </strong> for their constant supervision throughout the research process </li>
+  <li> <strong style = "color:blue">Dean Jean Patrick Antoine </strong>for his enthusiastic support and insight; the Governor’s School of Engineering and Technology (GSET) and Rutgers University for the chance to increase our knowledge, explore engineering, and pursue new opportunities </li>
+  <li><strong>The state of New Jersey, alumni, and sponsors </strong>for making this program possible </li>
+  <li> <strong>NJ GSET Alumni </strong>for their continued participation and support </li>
+</ul>
 
 ## With love ❤️
 <img src = "images/gset21.jpg" width = 555>
