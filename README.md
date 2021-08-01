@@ -32,11 +32,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+<!-- 
 [![full research paper][researchfull-shield]][researchfull-url]
 [![5 pg research paper][research5-shield]][research5-url]
 
-<!-- 
+
 [full research paper](https://soe.rutgers.edu/governors-school-engineering-technology-research-journals) <br>
 [IEEE 5 page paper](https://drive.google.com/file/d/1_xD0wUTBtjxomaljPMzFUl4MwFEgipZP/view?usp=sharing)
 
