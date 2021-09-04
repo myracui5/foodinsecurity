@@ -33,15 +33,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 [![full research paper][researchfull-shield]][researchfull-url]
+<!--
 [![5 pg research paper][research5-shield]][research5-url]
-
 
 [full research paper](https://soe.rutgers.edu/governors-school-engineering-technology-research-journals) <br>
 [IEEE 5 page paper](https://drive.google.com/file/d/1_xD0wUTBtjxomaljPMzFUl4MwFEgipZP/view?usp=sharing)
+-->
 
 
 ### Abstract
-With the increased cost of living, exacerbated by COVID-19, thousands in New Jersey lack secure access to nutri- tious food. Given the importance of the issue, this research aims to produce an accurate metric using accessible data to quantify food insecurity. 16 potential explanatory variables, such as median household income and homeless population, were chosen as their values were defined across all NJ counties from 2015-2019. Using multiple linear regression, 14 unique metrics were created after four different variable pruning methods. The leading metric, with an adj. R2 value of 0.932, demonstrates the correlation between food insecurity, population, median household income, total population with health insurance, and population with private health insurance. The implementation of this metric could serve as a tool in predicting areas of food insecurity, highlighting affiliated factors, and revealing connections between racial populations.
+With the increased cost of living, exacerbated by COVID-19, thousands in New Jersey lack secure access to nutritious food. Given the importance of the issue, this research aims to produce an accurate metric using accessible data to quantify food insecurity. 16 potential explanatory variables, such as median household income and homeless population, were chosen as their values were defined across all NJ counties from 2015-2019. Using multiple linear regression, 14 unique metrics were created after four different variable pruning methods. The leading metric, with an adj. R2 value of 0.932, demonstrates the correlation between food insecurity, population, median household income, total population with health insurance, and population with private health insurance. The implementation of this metric could serve as a tool in predicting areas of food insecurity, highlighting affiliated factors, and revealing connections between racial populations.
  
 ### Built With
 Python libraries and packages:
